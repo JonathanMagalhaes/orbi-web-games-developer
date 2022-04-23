@@ -247,7 +247,7 @@ function colisao() {
     function explosao1(inimigo1X,inimigo1Y) {
         somExplosao.play();
         $("#fundoGame").append("<div id='explosao1'></div");
-        $("#explosao1").css("background-image", "url(assets/img/explosao.png)");
+        $("#explosao1").css("background-image", "url(assets/imgs/explosao.png)");
         var div=$("#explosao1");
         div.css("top", inimigo1Y);
         div.css("left", inimigo1X);
@@ -268,7 +268,7 @@ function colisao() {
         function explosao2(inimigo2X,inimigo2Y) {
             somExplosao.play();
             $("#fundoGame").append("<div id='explosao2'></div");
-            $("#explosao2").css("background-image", "url(assets/img/explosao.png)");
+            $("#explosao2").css("background-image", "url(assets/imgs/explosao.png)");
             var div2=$("#explosao2");
             div2.css("top", inimigo2Y);
             div2.css("left", inimigo2X);
@@ -342,22 +342,22 @@ function colisao() {
 	
                 if (energiaAtual==3) {
                     
-                    $("#energia").css("background-image", "url(assets/img/energia3.png)");
+                    $("#energia").css("background-image", "url(assets/imgs/energia3.png)");
                 }
             
                 if (energiaAtual==2) {
                     
-                    $("#energia").css("background-image", "url(assets/img/energia2.png)");
+                    $("#energia").css("background-image", "url(assets/imgs/energia2.png)");
                 }
             
                 if (energiaAtual==1) {
                     
-                    $("#energia").css("background-image", "url(assets/img/energia1.png)");
+                    $("#energia").css("background-image", "url(assets/imgs/energia1.png)");
                 }
             
                 if (energiaAtual==0) {
                     
-                    $("#energia").css("background-image", "url(assets/img/energia0.png)");
+                    $("#energia").css("background-image", "url(assets/imgs/energia0.png)");
                      gameOver();
 
                     //Game Over
