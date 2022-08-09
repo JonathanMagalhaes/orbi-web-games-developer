@@ -2,7 +2,7 @@
 <img src="https://github.com/JonathanMagalhaes/orbi-web-games-developer/blob/main/Logo-bootcamp-orbi.png" width="175px"> 
 </div>
 <h1 align="center">Orbi Web Games Developer</h1>
-<h4 align="center">O bootcamp Órbi Web Games Developer é um programa gratuito para quem deseja iniciar a carreira em desenvolvimento de games, uma das áreas da tecnologia que mais cresce em todo o mundo. No bootcamp, você vai aprender as linguagens essenciais para dar o primeiro passo como game developer, além de praticar em projetos de games hands-on que vão direto para seu portfólio.</h4>
+<h4 align="center">O bootcamp Órbi Web Games Developer foi um programa gratuito para quem deseja iniciar a carreira em desenvolvimento de games, uma das áreas da tecnologia que mais cresce em todo o mundo. No bootcamp, eu aprendi as linguagens essenciais para dar o primeiro passo como game developer, além de praticar em projetos de games hands-on.</h4>
 
 
 <h3 align="center">
